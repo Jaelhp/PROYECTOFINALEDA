@@ -57,7 +57,7 @@ public class DeteccionPlagio extends JFrame {
             resultTextArea.setText("Error al comprobar el plagio.");
         }
     }
-
+//nuestro main
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
